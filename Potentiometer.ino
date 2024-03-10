@@ -20,8 +20,6 @@ void loop() {
   
   // Update timer frequency
   startTimer(frequency);
-  
-  // Other operations can be added here if needed
 }
 
 void startTimer(double timerFrequency) {
